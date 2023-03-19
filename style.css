@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+img {
+    float: right;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+    font-size: 20px;
+  }
+  
+ul, ol {
+    font-size: 20px;
+}
+
+button{
+    border: 0px;
+    background-color: transparent;
+}
+
+.TinyPic {
+    float:left;
+    margin:5px;
+}
