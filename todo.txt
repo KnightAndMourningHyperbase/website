@@ -1,8 +1,8 @@
-Joe?
 ----------------
 Release
 ----------------
-Alternate costumes?
-Tokens?
-Easter eggs?
-Level Editor?
+Update Knight & Mourning (change "is releasing" to "released")
+Update Knight (add all alternate costumes)
+Update Wizz (canon)
+Update Joe (canon)
+Update Tokens (add different types of tokens and other stuff)
