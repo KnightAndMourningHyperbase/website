@@ -1,8 +1,4 @@
 ----------------
-Release
-----------------
-Update Knight (add all alternate costumes)
-----------------
 As I Am Playing
 ----------------
 Each World
@@ -15,3 +11,7 @@ Update Tokens (add different types of tokens and other stuff)
 Add Cheese
 Add Achievements
 Add Modding/Community Content Related Stuff
+----------------
+For Other People
+----------------
+You Can Change The Information About Your Alternate Costume On The Knight Page
