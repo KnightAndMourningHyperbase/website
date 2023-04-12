@@ -1,8 +1,17 @@
 ----------------
 Release
 ----------------
-Update Knight & Mourning (change "is releasing" to "released")
 Update Knight (add all alternate costumes)
+----------------
+As I Am Playing
+----------------
+Each World
+----------------
+Complete Game
+----------------
 Update Wizz (canon)
 Update Joe (canon)
 Update Tokens (add different types of tokens and other stuff)
+Add Cheese
+Add Achievements
+Add Modding/Community Content Related Stuff
